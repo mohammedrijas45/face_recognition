@@ -12,4 +12,4 @@ import face_frame          #import other face_frame.py file
 
 print("If you Want to quit program Press - Q ")
 
-face_frame.faceframe()     # run face_frame function in face_frame.py fileq
+face_frame.faceframe()     # run face_frame function in face_frame.py file
